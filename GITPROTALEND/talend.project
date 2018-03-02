@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_W0SY8R33EeiRk_eIOULS4A" label="gitProTalend" description="" language="java" technicalLabel="GITPROTALEND" creationDate="2018-03-02T16:48:03.000+0800" author="_W0SY8h33EeiRk_eIOULS4A" productVersion="Talend Data Fabric-7.0.1.20180117_1932-SNAPSHOT" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/xlwang-tlnd/gitpro.git&quot;,&quot;login&quot;:&quot;xlwang-tlnd&quot;,&quot;passwd&quot;:&quot;GdvkHU9fg04YHFTmGS7t6A==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_W0SY8h33EeiRk_eIOULS4A" login="security@company.com" firstName="security" lastName="security" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
